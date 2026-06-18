@@ -1,0 +1,10 @@
+bin/
+obj/
+.idea/
+.vs/
+*.user
+*.suo
+*.log
+*.DotSettings.user
+Framework2/bin/
+Framework2/obj/
